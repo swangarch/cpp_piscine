@@ -49,7 +49,7 @@ It reflects what I have learned while completing each exercise, from basic synta
 ### 9️⃣ cpp08 - STL Containers & Algorithms
 - Using vectors, lists, maps, and sets  
 - Iterators and range-based loops  
-- Applying standard algorithms like `sort`, `find`, and `transform`  
+- Applying standard algorithms like `sort`, `find`  
 
 ### 🔟 cpp09 - Advanced C++ Concepts
 - Implementing advanced algorithms (e.g., Ford-Johnson merge-insertion sort)  
@@ -62,7 +62,7 @@ It reflects what I have learned while completing each exercise, from basic synta
 - Avoided global code, structured everything with `main` functions  
 - Followed 42 School coding standards and best practices  
 - Used **canonical form** (default constructor, copy constructor, assignment operator, destructor) when applicable  
-- Protected header files with include guards or `#pragma once`  
+- Protected header files with include guards  
 - Focused on readability, maintainability, and modular design  
 ---
 
